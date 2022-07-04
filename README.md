@@ -1,6 +1,6 @@
 ### Hola amigos 👋🏻
 
-I'm a nerd, chocolate and wine lover, voracious reader and <s>slighly</s> sleep-deprived software engineer at Microsoft. 
+I'm a nerd, chocolate and wine lover, voracious reader and <s>slightly</s> sleep-deprived software engineer at Microsoft. 
 
 When I'm not debugging mysterious code I didn't write, I'm generally binge-watching YouTube videos or reading obscure documentation to learn something new.
 
