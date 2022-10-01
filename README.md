@@ -1,7 +1,7 @@
 ### Hola amigos 👋🏻
 
-I'm a nerd, chocolate and wine lover, voracious reader and <s>slightly</s> sleep-deprived software engineer at Microsoft. 
+I'm a software engineer at Microsoft, working on JavaScript/TypeScript tools for Visual Studio.
 
-When I'm not debugging mysterious code I didn't write, I'm generally binge-watching a Udemy course or reading obscure documentation to learn something new.
+When I'm not debugging mysterious code I didn't write, I'm generally learning something new or giving my 2¢ to open source.
 
 Check out my portfolio [here](https://www.maria-sol-os.com/) or shoot me an email to majosolano99@gmail.com if you want to chat!
